@@ -1,4 +1,8 @@
 # 💫 About Me:
+<a href="https://t.me/Pantane4" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" />
+</a>
+
 🛠 I’m currently working on:<br>Building full-stack web applications and exploring app development projects that solve real-world problems.<br><br>🤝 I’m looking to collaborate on:<br>Innovative tech projects, especially those involving web or mobile development using Python, Node.js, or JavaScript.<br><br>🧠 I’m looking for help with:<br>Enhancing my backend skills, learning best practices for deploying scalable apps, and contributing to open-source projects.<br><br>🌱 I’m currently learning:<br>Advanced algorithms, system design, and modern frontend frameworks like React.<br><br>💬 Ask me about:<br>Creating websites, developing apps, or how to get started with Python and JavaScript as a student.<br><br>⚡️ Fun fact:<br>I once built a mini app that helps students track their study hours – it actually made me more productive!
 
 
