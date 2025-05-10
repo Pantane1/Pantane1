@@ -1,3 +1,18 @@
+
+<p align="center">
+
+[![PANTANE-TECH](https://github.com/pantane1.png?lenght=50width=50)](https://github.com/pantane1)
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AM+THE+GREAT+BHUDHAA🐊+PANTANE" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-PANTANE-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/pantane1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/pantane1?label=Followers&style=social"></a>
+</p>
+
 ## 💫 About Me:
 🛠 I’m currently working on:<br>Building full-stack web applications and exploring app development projects that solve real-world problems.<br><br>🤝 I’m looking to collaborate on:<br>Innovative tech projects, especially those involving web or mobile development using Python, Node.js, or JavaScript.<br><br>🧠 I’m looking for help with:<br>Enhancing my backend skills, learning best practices for deploying scalable apps, and contributing to open-source projects.<br><br>🌱 I’m currently learning:<br>Advanced algorithms, system design, and modern frontend frameworks like React.<br><br>💬 Ask me about:<br>Creating websites, developing apps, or how to get started with Python and JavaScript as a student.<br><br>⚡️ Fun fact:<br>I once built a mini app that helps students track their study hours – it actually made me more productive!
 
