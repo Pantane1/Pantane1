@@ -1,7 +1,7 @@
 
 <p align="center">
   
-[![PANTANE-TECH](https://github.com/pantane1.png?lenght=50width=100)](https://github.com/pantane1)
+[![PANTANE-TECH](https://github.com/pantane1.png?lenght=40width=100)](https://github.com/pantane1)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AM+THE+GREAT+BHUDHAA🐊+PANTANE" alt="">
