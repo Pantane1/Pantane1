@@ -4,7 +4,7 @@
 [![PANTANE-TECH](https://github.com/pantane1.png?lenght=40width=100)](https://github.com/pantane1)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Great_Pantane+UI+UX+Dev+&Backend+Tech" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Am+The+Great_Pantane+UI+UX+Dev+&Backend+Tech" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-PANTANE-blue.svg?style=for-the-badge&logo=github"></a>
