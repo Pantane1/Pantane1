@@ -45,3 +45,6 @@
 >> **Great_Pantane**
 
 **check my Repos and see the projects am onto am sure you wont luck one you'll fork**
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Long-Live+The Njagi's" alt="">
+</p>
