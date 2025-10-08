@@ -17,6 +17,7 @@
 ## 🌐 My Socials😎:
 [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-green?logo=whatsapp&style=for-the-badge)](https://wa.me/254740312402?text=yoow_GP%2C%20got%20your%20number%20from%20GitHub%20%F0%9F%98%8A%2C%20wassup%20%F0%9F%91%8B) 
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?logo=telegram&style=for-the-badge)](https://t.me/Pantane4)
+[![Freelancer](https://img.shields.io/badge/Hire%20Me-Freelancer-blue?logo=freelancer&style=for-the-badge)](https://www.freelancer.com/u/greatp7)
 
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/pantane4) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/martinpantane) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pantane_22460) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/martinke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martinwamuhu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pantane254) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pantane4) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/pantane) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/head-section-4943) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pantane_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pantane4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pantane4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pantane4) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/pantane4-) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@pantane4)
@@ -44,13 +45,3 @@
 
 **check my Repos and see the projects am onto am sure you wont luck one you'll fork**
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Long-Live+The+Njagi's" alt="">
-</p>
-
-<!-- Add Font Awesome first -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<!-- Freelancer Icon Link -->
-<a href="https://www.freelancer.com/u/greatp7" target="_blank" title="Visit my Freelancer profile">
-  <i class="fa-brands fa-freelancer" style="font-size: 30px; color: #29b2fe;"></i>
-</a>
