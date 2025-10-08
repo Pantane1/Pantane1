@@ -1,13 +1,3 @@
-<!-- Add Font Awesome first -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<!-- Freelancer Icon Link -->
-<a href="https://www.freelancer.com/u/greatp7" target="_blank" title="Visit my Freelancer profile">
-  <i class="fa-brands fa-freelancer" style="font-size: 30px; color: #29b2fe;"></i>
-</a>
-<p align="center">
-  
-[![PANTANE-TECH](https://github.com/pantane1.png?lenght=40width=100)](https://github.com/pantane1)
 
 </p>
 <p align="center">
@@ -56,3 +46,11 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Long-Live+The+Njagi's" alt="">
 </p>
+
+<!-- Add Font Awesome first -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Freelancer Icon Link -->
+<a href="https://www.freelancer.com/u/greatp7" target="_blank" title="Visit my Freelancer profile">
+  <i class="fa-brands fa-freelancer" style="font-size: 30px; color: #29b2fe;"></i>
+</a>
