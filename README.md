@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Am+The+Great_Pantane+UI+UX+Dev" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AM+THE+Great_Pantane+UI+UX+DEV" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Great_PANTANE-blue.svg?style=for-the-badge&logo=github"></a>
