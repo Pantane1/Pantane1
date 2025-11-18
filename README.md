@@ -46,8 +46,17 @@ SEE ME🫠🤤👹;  [![ImgBB](https://img.shields.io/badge/View-ImgBB-green?log
 <p align="center">
 
 
+## 🐍 Slither Into My Code Kingdom😂
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lewiii254/lewiii254/output/github-snake.svg" />
+</picture>
+
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=LONG+LIVE+THE+NJAGI'S" alt="">
 </p>
+
 
 
