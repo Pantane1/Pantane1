@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AM+THE+Great_Pantane+UI+UX+DEV" alt="">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Marklewis+Mutugi+😁+-+Software+Engineer+💻;MERN+Stack+Dev+🚀+%7C+Next.js+Dev+⚡;Building+AkiliSpa+Mental+Health+❤;Dart+flutter+Ethusiast+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+</p
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Great_PANTANE-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
