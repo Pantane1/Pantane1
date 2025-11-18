@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Wamuhu+Martin+😁+-+Software_Engineer🧢+💻;UInUX_Dev+🚀+%7C+Next.js🌚+Dev+⚡;Building🧞‍♂️+System_AI⚛️+APPS♨️+❤;Dart🤩+flutter😘+Ethusiast😒+LoveYou❤️+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p
 
-  
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Great_PANTANE-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
+
 <p align="center">
 <a href="https://github.com/pantane1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/pantane1?label=Followers&style=social"></a>
 </p>
