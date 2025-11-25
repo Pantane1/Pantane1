@@ -44,13 +44,8 @@ SEE ME🫠🤤👹;  [![ImgBB](https://img.shields.io/badge/View-ImgBB-green?log
 
 **check my Repos and see the projects am onto am sure you wont luck one you'll fork**
 <p align="center">
-  [![hub]](https://github.com/Pantane1/Pantane1/blob/main/hub.png)
-</p>
-<p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=LONG+LIVE+THE+NJAGI'S" alt="">
 </p>
-![HUB]()
 
-https://github.com/Pantane1/Pantane1/blob/main/hub.png
-
+![hub](https://github.com/Pantane1/Pantane1/blob/main/hub.png)
 
