@@ -47,5 +47,6 @@ SEE ME🫠🤤👹;  [![ImgBB](https://img.shields.io/badge/View-ImgBB-green?log
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=LONG+LIVE+THE+NJAGI'S" alt="">
 </p>
 
-![hub](https://github.com/Pantane1/Pantane1/blob/main/hub.png)
-
+<p align="center">
+  <a href="#"><img src="https://github.com/Pantane1/Pantane1/blob/main/hub.png">
+</p>
