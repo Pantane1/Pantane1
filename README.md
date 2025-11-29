@@ -12,6 +12,8 @@
 
 
 ## 🌐 My Socials😎:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="martin-wamuhu-757924340" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/martin-wamuhu-757924340?trk=profile-badge">Martin Wamuhu</a></div>
+              
 [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-green?logo=whatsapp&style=for-the-badge)](https://wa.me/254740312402?text=yoow_GP%2C%20got%20your%20number%20from%20GitHub%20%F0%9F%98%8A%2C%20wassup%20%F0%9F%91%8B) 
 [![Telegram](https://img.shields.io/badge/Chat-Telegram-blue?logo=telegram&style=for-the-badge)](https://t.me/Pantane4)
 [![Freelancer](https://img.shields.io/badge/Hire%20Me-Freelancer-blue?logo=freelancer&style=for-the-badge)](https://www.freelancer.com/u/greatp7)
