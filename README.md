@@ -1,3 +1,7 @@
+https://x.com/Pantane4/status/1988236763593052190?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1988236763593052190%7Ctwgr%5E1d7288fdf37831e81dc06da994c51236dd136e17%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Furl%3Dhttps%3A%2F%2Ftwitter.com%2FPantane4%2Fstatus%2F1988236763593052190
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Landi -you wanna see this combo in one app <a href="https://t.co/O1cv7tJlcX">pic.twitter.com/O1cv7tJlcX</a></p>&mdash; Pantane (@Pantane4) <a href="https://twitter.com/Pantane4/status/1988236763593052190?ref_src=twsrc%5Etfw">November 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Wamuhu+Martin+😁+-+Software_Engineer🧢+💻;UInUX_Dev+🚀+%7C+Next.js🌚+Dev+⚡;Building🧞‍♂️+System_AI⚛️+APPS♨️+❤;Dart🤩+flutter😘+Ethusiast😒+LoveYou❤️+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p
