@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Wamuhu+Martin+😁+-+Software_Engineer🧢+💻;UInUX_Dev+🚀+%7C+Next.js🌚+Dev+⚡;Building🧞‍♂️+System_AI⚛️+APPS♨️+❤;Dart🤩+flutter😘+Ethusiast😒+LoveYou❤️+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p
- <h7 align="center"> **pantane** </h7>
+
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=P+A+N+T+A+N+E+PANTANE" alt="">
+</p>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
