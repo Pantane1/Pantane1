@@ -3,7 +3,7 @@
 </p
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=P+A+N+T+A+N+E+;PANTANE" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=P+A+N+T+A+N+E+ +L+O+V+E+S+ +C+O+D+I+N+G+;PANTANE" alt="">
 </p>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
