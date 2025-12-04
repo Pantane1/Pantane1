@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Wamuhu+Martin+😁+-+Software_Engineer🧢+💻;UInUX_Dev+🚀+%7C+Next.js🌚+Dev+⚡;Building🧞‍♂️+System_AI⚛️+APPS♨️+❤;Dart🤩+flutter😘+Ethusiast😒+LoveYou❤️+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Wamuhu+Martin+😁+-+Software_Engineer🧢+💻;UInUX_Dev+🚀+%7C+Next.js🌚+Dev+⚡;Building🧞‍♂️+System_AI⚛️+APPS♨️+❤;Dart🤩+flutter😘+Ethusiast😒+ML Expert+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
 </p
 
  <p align="center">
@@ -14,7 +14,9 @@
 </p>
 
 ## 💫 About Me:
-🛠 I’m currently working on:<br>Building full-stack web applications and exploring app development projects that solve real-world problems.<br><br>🤝 I’m looking to collaborate on:<br>Innovative tech projects, especially those involving web or mobile development using Python, Node.js, or JavaScript.<br><br>🧠 I’m looking for help with:<br>Enhancing my backend skills, learning best practices for deploying scalable apps, and contributing to open-source projects.<br><br>🌱 I’m currently learning:<br>Advanced algorithms, system design, and modern frontend frameworks like React.<br><br>💬 Ask me about:<br>Creating websites, developing apps, or how to get started with Python and JavaScript as a student.<br><br>⚡️ Fun fact:<br>I once built a mini app that helps students track their study hours – it actually made me more productive!**my works:** [them-sparks😌](https://github.com/Pantane1/Pantane1/blob/main/1219070a3e6a2412a79da8335f369b66.mp4)  
+🛠 I’m currently working on:<br>Building full-stack web applications and exploring app development projects that solve real-world problems.<br><br>🤝 I’m looking to collaborate on:<br>Innovative tech projects, especially those involving web or mobile development using Python, Node.js, or JavaScript.<br><br>🧠 I’m looking for help with:<br>Enhancing my backend skills, learning best practices for deploying scalable apps, and contributing to open-source projects.<br><br>🌱 I’m currently learning:<br>Advanced algorithms, system design, and modern frontend frameworks like React.<br><br>💬 Ask me about:<br>Creating websites, developing apps, or how to get started with Python and JavaScript as a student.<br><br>⚡️ Fun fact:<br>I once built a mini app that helps students track their study hours – it actually made me more productive!
+,
+**my works:** [them-sparks😌](https://github.com/Pantane1/Pantane1/blob/main/1219070a3e6a2412a79da8335f369b66.mp4)  
 
 
 
