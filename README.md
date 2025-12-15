@@ -1,4 +1,3 @@
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02yPeimEN2Vi2VhTJ6MYk7uPz9UsNBk57WLarS8FVK4x4HVHniwrGg98CwxWid1dkZl%26id%3D100095346974516&show_text=true&width=500" width="500" height="709" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Wamuhu+Martin+😁+-+Software_Engineer🧢+💻;UInUX_Dev+🚀+%7C+Next.js🌚+Dev+⚡;Building🧞‍♂️+System_AI⚛️+APPS♨️+❤;Dart🤩+flutter😘+Ethusiast😒+ML_Expert+😁+✨;💼+Future+CTO+in+the+Making+%F0%9F%92%AA;Empowering+Startups+Across+Africa+🌍;Just+a+Curious+Dev+on+a+Mission+🌟;Harvard🎓+ALP+25+%7C+Mentor+and+Mentee+🎓;" />
