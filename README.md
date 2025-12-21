@@ -49,7 +49,7 @@
 
 SEE ME🫠🤤👹;  [![ImgBB](https://img.shields.io/badge/View-ImgBB-green?logo=imgbb&style=for-the-badge)](https://great-pantane-en.imgbb.com/)
 
-  
+>>for best prompt well detailed [click here](https://wisprflow.ai/r?GREAT1249) 
 >> _"Code is like math — once you get the logic, everything flows"_
 >> **Great_Pantane**
 
