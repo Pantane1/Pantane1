@@ -16,7 +16,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=700&lines=Pantane+-+Visionary+young+developer+driven+by+innovation+and+ambition;Builds+practical+solutions%3A+POS+systems+to+AI-powered+platforms;Forever+curious+-+learning+new+technologies+and+frameworks;Bold%2C+confident+communicator+focused+on+growth;Creative+thinker+%2B+analytical+problem-solver;Consistent%2C+ambitious%2C+and+results-driven;AI+Automation+and+build+systems%2C+not+just+fetch+answers;Motivated+by+excellence%2C+opportunity%2C+continuous+improvement;Shares+projects+publicly+to+build+trust+%26+professionalism;Emerging+force+in+tech+-+focused%2C+intentional%2C+unstoppable" />
 </p>
 
----
 [![Reach Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail)](https://pantane1.github.io/nf)
 
 ---
