@@ -30,7 +30,7 @@
 ---
 ---
 [![Sponsor Card](https://github.com/sponsors/Pantane1/card)](https://github.com/sponsors/Pantane1)
-[![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/Pantane1)
+
 
 ---
 
