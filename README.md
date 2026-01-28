@@ -28,6 +28,9 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pantane4) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mapantane1@gmail.com) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/pantane4) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pantane4) 
 
 ---
+---
+<iframe src="https://github.com/sponsors/Pantane1/card" title="Sponsor Pantane1" height="225" width="600" style="border: 0;"></iframe>
+---
 
 >>for best prompt well detailed [click here](https://wisprflow.ai/r?GREAT1249) 
 >> _"Code is like math — once you get the logic, everything flows"_
