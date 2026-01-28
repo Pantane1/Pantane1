@@ -29,7 +29,9 @@
 
 ---
 ---
-<iframe src="https://github.com/sponsors/Pantane1/card" title="Sponsor Pantane1" height="225" width="600" style="border: 0;"></iframe>
+[![Sponsor Card](https://github.com/sponsors/Pantane1/card)](https://github.com/sponsors/Pantane1)
+[![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/Pantane1)
+
 ---
 
 >>for best prompt well detailed [click here](https://wisprflow.ai/r?GREAT1249) 
