@@ -17,20 +17,18 @@
 </p>
 
 [![Reach Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail)](https://pantane1.github.io/nf)
+[![WISPER_AI](https://img.shields.io/badge/flow-🎙️-blue)](https://wisprflow.ai/r?GREAT1249)
+[![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink)](https://wamuhu-martin.vercel.app/#support)
+
 
 ---
 ### ✍️ RDQ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-## 💰SP💸
-[![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink)](https://wamuhu-martin.vercel.app/#support)
 
----
-
->>for best prompt well detailed [click here](https://wisprflow.ai/r?GREAT1249) 
 >> _"Code is like math — once you get the logic, everything flows"_
->> **Great_Pantane** \br
+>> **Great_Pantane**
+
 **check my Repos and see the projects am onto am sure you wont luck one you'll fork**
 
 ---
