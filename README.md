@@ -19,7 +19,7 @@
 [![Reach Me](https://img.shields.io/badge/ContactMe-purple)](https://pantane1.github.io/nf)
 [![WISPER_AI](https://img.shields.io/badge/flow🎙️-blue)](https://wisprflow.ai/r?GREAT1249)
 [![Sponsor](https://img.shields.io/badge/Sponsor💖-pink)](https://wamuhu-martin.vercel.app/#support)
-[![My_Resume](https://img.shields.io/badge/Resume📃-yellow)](https://t.me/pantane)
+[![My_Resume](https://img.shields.io/badge/Resume📃-yellow)](https://pantane.vercel.app/#)
 
 
 ---
