@@ -27,8 +27,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ```
->> _"Code is like math — once you get the logic, everything flows"_
->> **Great_Pantane**
+"Code is like math — once you get the logic, everything flows" ∆ Great_Pantane
 ```
 
 **check my Repos and see the projects am onto am sure you wont luck one you'll fork**
