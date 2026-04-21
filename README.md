@@ -20,7 +20,7 @@
 [![WISPER_AI](https://img.shields.io/badge/flow🎙️-blue)](https://wisprflow.ai/r?GREAT1249)
 [![Sponsor](https://img.shields.io/badge/Sponsor💖-pink)](https://wamuhu-martin.vercel.app/#support)
 [![My_Portfolio](https://img.shields.io/badge/⚙️Portfolio-yellow)](https://pantane.vercel.app/#)
-
+[![Whatsapp_me](https://img.shields.io/badge/↗️↗️↗️-grey)](https://wa.me/254740312402)
 
 ---
 ### ✍️ 
